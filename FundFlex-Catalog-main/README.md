@@ -3,7 +3,7 @@
 A full-stack catalog and EMI plan exploration application built with React, Express, and Prisma.
 
 ## Tech Stack Used
-
+ 
 *   **Frontend:** React, TypeScript, Vite, Tailwind CSS, React Router, TanStack Query
 *   **Backend:** Node.js, Express, TypeScript, Zod (Validation)
 *   **Database & ORM:** SQLite (for demo), Prisma ORM
